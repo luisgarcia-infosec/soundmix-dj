@@ -7,6 +7,12 @@
 [![HTML](https://img.shields.io/badge/HTML5-sin%20frameworks-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/es/docs/Web/HTML)
 
 ---
+## 📸 Screenshots
+
+![Panel DJ](SoundMix_Panel_Dj.JPG)
+![Captura 1](SoundMix_Captura1.JPG)
+![Captura 2](SoundMix_Captura2.JPG)
+![Chat en Vivo](SoundMix_ChatEnVivo.JPG)
 
 ## 🚀 Demo
 
